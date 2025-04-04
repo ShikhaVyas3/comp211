@@ -1,5 +1,5 @@
 # comp211
 git practice
 
-Ellis
-Ellis 2
+# Ellis
+# Ellis 2
